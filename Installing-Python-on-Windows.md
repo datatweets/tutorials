@@ -1,6 +1,5 @@
 # Tutorial: Installing Python on Windows
 
-**Date:** January 13, 2022
 
 Python is a popular open-source, high-level programming language. It's intuitive and offers many helpful tools and libraries — [Python is a powerful data science asset](https://www.dataquest.io/python-for-data-science-courses/) to have in your toolkit. To start working with Python, we first need to download it and install it on our operating system (in this case, Windows).
 
