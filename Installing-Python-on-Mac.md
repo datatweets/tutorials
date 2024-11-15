@@ -159,9 +159,5 @@ Now that everything is set up, let’s write and run a Python script in VS Code.
 
 ## Conclusion
 
-In this tutorial, we learned how to install and update Python on macOS, install and configure Visual Studio Code for Python development, and run our first Python script. In the next tutorial, we’ll explore [Python virtual environments](https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/) and how to use them. Congratulations, Pythonista!
+In this tutorial, we learned how to install and update Python on macOS, install and configure Visual Studio Code for Python development, and run our first Python script. In the next tutorial, we’ll explore Python virtual environments and how to use them. Congratulations, Pythonista!
 
-For more learning, check out:
-- [Dataquest's Introduction to Python course](https://www.dataquest.io/course/introduction-to-python/)
-- [Data Analyst in Python Path](https://www.dataquest.io/path/data-analyst)
-- [Data Scientist in Python Path](https://www.dataquest.io/path/data-scientist)
