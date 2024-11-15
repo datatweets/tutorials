@@ -1,7 +1,7 @@
 # Tutorial: Installing Python on Windows
 
 
-Python is a popular open-source, high-level programming language. It's intuitive and offers many helpful tools and libraries — [Python is a powerful data science asset](https://www.dataquest.io/python-for-data-science-courses/) to have in your toolkit. To start working with Python, we first need to download it and install it on our operating system (in this case, Windows).
+Python is a popular open-source, high-level programming language. It's intuitive and offers many helpful tools and libraries — Python is a powerful data science asset to have in your toolkit. To start working with Python, we first need to download it and install it on our operating system (in this case, Windows).
 
 ---
 
@@ -9,10 +9,10 @@ Python is a popular open-source, high-level programming language. It's intuitive
 
 There are two main ways to install Python on Windows:  
 1. Installation from the official [Python website](https://www.python.org/).  
-2. Installation using [Anaconda](https://www.anaconda.com/), a convenient distribution of Python and [R programming languages](https://www.dataquest.io/r-for-data-science-courses/).
+2. Installation using [Anaconda](https://www.anaconda.com/), a convenient distribution of Python and R programming languages.
 
 - **Choose the official Python installation** if you're a programmer working on web development, network programming, or general-purpose software applications.
-- **Choose Anaconda** if you're focused on data science and [machine learning](https://www.dataquest.io/course/machine-learning-fundamentals/). Anaconda provides:
+- **Choose Anaconda** if you're focused on data science and machine learning. Anaconda provides:
   - 1500+ built-in Python and R data science packages.
   - Popular Python IDEs like Jupyter Notebook.
   - A graphical user interface (GUI) for ease of use.
